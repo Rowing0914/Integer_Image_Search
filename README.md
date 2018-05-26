@@ -22,3 +22,4 @@ $ npm start
 ```
 
 ## Promotional Gifani
+![demo](https://github.com/Rowing0914/Integer_Image_Search/blob/master/usage.gif)
